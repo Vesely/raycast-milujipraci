@@ -1,0 +1,38 @@
+{
+  "$schema": "https://www.raycast.com/schemas/extension.json",
+  "name": "miluju-svoji-praci",
+  "title": "Miluju Svojí Práci!",
+  "description": "Search and play audio files",
+  "icon": "command-icon.png",
+  "author": "raycast-user",
+  "categories": [
+    "Media"
+  ],
+  "license": "MIT",
+  "commands": [
+    {
+      "name": "search-audio",
+      "title": "Search Audio Files",
+      "description": "Search and play audio files",
+      "mode": "view"
+    }
+  ],
+  "dependencies": {
+    "@raycast/api": "^1.103.5",
+    "@raycast/utils": "^2.2.2"
+  },
+  "devDependencies": {
+    "@raycast/eslint-config": "^1.0.8",
+    "@types/node": "20.8.10",
+    "eslint": "^8.51.0",
+    "prettier": "^3.0.3",
+    "typescript": "5.1.6"
+  },
+  "scripts": {
+    "build": "ray build -e dist",
+    "dev": "ray develop",
+    "fix-lint": "ray lint --fix",
+    "lint": "ray lint",
+    "publish": "npx @raycast/api@latest publish"
+  }
+}
