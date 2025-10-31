@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "miluji-praci",
-  "title": "Miluji svoj praci!",
+  "title": "Audio meme",
   "description": "Search and play audio files",
   "icon": "assets/icon.png",
   "author": "David Vesely <jsem@davidvesely.cz>",
@@ -12,7 +12,7 @@
   "commands": [
     {
       "name": "search-audio",
-      "title": "Miluji svoj praci!",
+      "title": "Miluji svoji praci",
       "description": "Search and play audio files",
       "mode": "view"
     }

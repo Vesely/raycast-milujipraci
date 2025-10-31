@@ -1,4 +1,4 @@
-# Miluji svoji práci! - Raycast Extension
+# Audio meme - Raycast Extension
 
 A simple Raycast extension for searching and playing audio files.
 
