@@ -1,4 +1,4 @@
-# Miluju svoj? pr?ci! - Raycast Extension
+# Miluji svoji práci! - Raycast Extension
 
 A simple Raycast extension for searching and playing audio files.
 
